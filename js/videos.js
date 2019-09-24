@@ -1,5 +1,5 @@
 function vid1_1() {
-    var vid = "https://ohmanyfast.verystream.net/stream/BGkyQcEhggi/rogugbt3sYNCArCA/wEGU-QEgdAa5ZCKKaiqfGeeklw8v_mFl_mEyUkpvZFGu4mkyETxmrEV8Kv588AcaNQGvfHpiJshmSi-RhS1Mn9Locp64Y2A6ZaneVhxhc2YUYOY9aK-QgdVfhG73o4THrt4J7Q2fOHvuL5szRZQA8OigGsA91n93qlrRnHy0xLLCKHg3itKX58ymaAK1z6UN2ChwxuUZzetSb8lGiJA9jhJ3bRAxuq9oOLd0vvD-I5ia2qhgPmmSrpQqAictLWsymfeGThS0_b7JZ_SdLCVKA06wBTzrHK5sFarThQAZ3Jax0xSHM_dbkDvUHFmzCMPunYh-fe04SSNuY_DJR_4mbHvReWM4-i2vKlI8l8Nz70Q4oDqCy9R7aH2bqUyXYISUFaNQmoDSUoPovi4IXRXN7KMswKW5JdwWteyfpt2PzWjOOzt7Lt3ULwbIU6JiSXt0OC5C-WfjWzVFpCJfJdBc_A/Watch+RIck+And+Morty.S01E01.720p.BRRip.AC3.5.1.x264+.mp4";
+    var vid = "https://media10.watchanimesub.net/getvid?evid=dR1tq4SLDgQz2S-bXYKnZuJW9cTcjQC_fGdDtjlz5b9oGwDGXlonSF9_x5l-eZU42VO_HnAf2yNMv6_VUD7OY13YMx1k0lYgxocW8PIvLw4S1B4_XSZtzlzOGe8jcadbyASvTH73ziSd4XhnyNLj3v-E4QIQaiBEiIU4lxTUy0ZANgfsvSY6DRpxvOp5O8WDFA4PyZEW2qLBWIllY0KAcJC_yBcqO0soD6mvooingHSaV4q-1YYRIyr9j_Yhq1T8dSWyp0gdlbEwh-cXEqrnTZ3BCMVHLDFDsQ90GZTUpL62PEKJ1tAu6opAxarLN8KGLyqVTZXdAN5aRtPrIRf4yn7dd1uVIcAwtDL5QpKKa1zn0MwzrUrbJDjlQZOFFAn-TRBhz4FEPYjTKjnE0oRrng";
     document.getElementById("video1_1").src = vid;
     document.getElementById("video1_1").controls = true;
     document.getElementById("video1_1").autoplay = true;
