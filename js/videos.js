@@ -1,5 +1,5 @@
 function vid1_1() {
-    var vid = "https://media10.watchanimesub.net/getvid?evid=dR1tq4SLDgQz2S-bXYKnZuJW9cTcjQC_fGdDtjlz5b9oGwDGXlonSF9_x5l-eZU42VO_HnAf2yNMv6_VUD7OY13YMx1k0lYgxocW8PIvLw4S1B4_XSZtzlzOGe8jcadbyASvTH73ziSd4XhnyNLj3v-E4QIQaiBEiIU4lxTUy0ZANgfsvSY6DRpxvOp5O8WDFA4PyZEW2qLBWIllY0KAcJC_yBcqO0soD6mvooingHSaV4q-1YYRIyr9j_Yhq1T8dSWyp0gdlbEwh-cXEqrnTZ3BCMVHLDFDsQ90GZTUpL62PEKJ1tAu6opAxarLN8KGLyqVTZXdAN5aRtPrIRf4yn7dd1uVIcAwtDL5QpKKa1zn0MwzrUrbJDjlQZOFFAn-TRBhz4FEPYjTKjnE0oRrng";
+    var vid = "http://pixa.club/video/rick-and-morty/season-3/epizod-3-pickle-rick-en.mp4";
     document.getElementById("video1_1").src = vid;
     document.getElementById("video1_1").controls = true;
     document.getElementById("video1_1").autoplay = true;
