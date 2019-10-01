@@ -146,7 +146,7 @@ function vid2_10() {
 }
 
 function vid3_1() {
-    var vid = "https://lbfull.watchanimesub.net/getvid?evid=aR6UCmguyubstI99UiDLItrhqyKjwuZvhHQptphQOxn6rC3_VqOmIED6uP0hzjb-7jUV3khKWboXDn89PYvLQiIPGhTguBEmywhS5AWbAoJis4tyxqCHJpf3ekWfNKYQCWVnNsNO-bLSC6SXSbXt1hG_TTnGfZeBQ9EZEvRHTfNaFBUCVw3Fw_NR1dBUxoRqu65nTtQfAhAxE_KJVckBBhyYfaNWDJIoYyviPx3SlXzS1YkK7hySbgYwIIJQmjQYf1WyU0VzMKvXnaT8eMTAky_xsrW6P3H4Fp7r1Vu3mXPurLkyHWI3zv2_GLVGB7jtReOBq-X4ZcFxzmWatzo4E-3INJiRbS6mJvyjkPqt4SBQfxihuHPNTin0RShD82XM";
+    var vid = "https://verystream.com/stream/aD5gSTRTFRm/Rick_and_Morty_-_S03E01.mp4";
     document.getElementById("video3_1").src = vid;
     document.getElementById("video3_1").controls = true;
     document.getElementById("video3_1").autoplay = true;
