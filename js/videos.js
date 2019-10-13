@@ -62,7 +62,7 @@ function vid1_9() {
 }
 
 function vid1_10() {
-    var vid = "https://lb.watchanimesub.net/getvid?evid=dR1tq4SLDgQz2S-bXYKnZuJW9cTcjQC_fGdDtjlz5b9eflktNWTRdOSj1k37dHgxo__h3aXN2YPXwfU1m12oiS-qL3ZxodISqZb927cdOEBL_AC_K7wlykZRVJq-FE78TyRIvti0SqDq9loUMtvy7F5vodthbI3WQFLDjCxtAu2nTU5bpZ6oHf3UWwQ7ZjgMEXOOODGzkN_CzkaNDnWtMaqzB58zy422Wiita4lYTPIvRv-Zkk35BCzgG8f_1IBuT6TUdrFxw0NA0akFwQ7j2j6I_Q0FFU4aNRolxYFoI2Xh7pX3pjtOmYIJL02zZ09QbFglAcCigr7Ldlk1i3mCNtclc_ZNQ8MYXvluNenQHl9WI-CL7Ob8PI5SFVmnyjTDyD9MuTyspNBBHsm7g1Vv21rx2UE0N9g2KNO-_Jn-PC67IrJw6TMlb268f_Zx9mXnJWJ9Q6nzS2qJOuYLBqZJhA";
+    var vid = "https://r9---sn-3c27sn7z.c.drive.google.com/videoplayback?expire=1571010058&ei=yn2jXe6eI8TD0AXv0IOYDA&ip=46.219.219.21&cp=QVNMU0FfT1BTSVhOOnJ4blBxMmp4Y1l3OWR4N0FCdThtOS05ek1seXdkcm9HTXBNWUZTTEw5Wmw&id=8d2ad76296ffbb57&itag=22&source=webdrive&requiressl=yes&mm=30&mn=sn-3c27sn7z&ms=nxu&mv=m&mvi=8&nh=IgpwcjAxLmticDAxKgkxMjcuMC4wLjE&pl=24&ttl=transient&susc=dr&driveid=1xFhWLWen2RhF1dytEl7x6rwnaGZo8Od7&app=explorer&mime=video/mp4&dur=1347.128&lmt=1570995467148646&mt=1570995567&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,dur,lmt&sig=ALgxI2wwRgIhAKZxlbgEABP4l-sUzCU7k4mqG9jA1sjiFrhVwZn6yhtRAiEA_1fF9DdYbWnjm6YTD4hoovwPuBsDIKIIL9h3wYkquP4=&lsparams=mm,mn,ms,mv,mvi,nh,pl&lsig=AHylml4wRgIhAMM25MZZ3UAhG9L1_4SPtT5J0wWYR4tQgNe7KwjfYr-DAiEAyfaW3rZtTEpCi5ic5tX05HI2yRgAESVI3SMOiQeHBfA=&cpn=SOPaSvkuZtS8uf6A&c=WEB_EMBEDDED_PLAYER&cver=20191010";
     document.getElementById("video1_10").src = vid;
     document.getElementById("video1_10").controls = true;
     document.getElementById("video1_10").autoplay = true;
