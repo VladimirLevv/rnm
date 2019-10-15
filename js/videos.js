@@ -55,7 +55,7 @@ function vid1_8() {
 }
 
 function vid1_9() {
-    var vid = "https://lb.watchanimesub.net/getvid?evid=dR1tq4SLDgQz2S-bXYKnZuJW9cTcjQC_fGdDtjlz5b_E9s-0tpKsI35EzawjsPfDXTn-q-uUw2VSCaV0AldJPvEwmIM8b5Kjg9NT_km4OTx62gcOHBKT30QYVYHz5_s513JIJrpLVe0qnZI9sQkHF8wK0XuPMt6wqfYO2nWdVDBF5isnDRWC2vrFNMM1JPGvOsFxqyMoYYWZx12kcffm9csqKxMZTzzGDNmhEEYZkwCbGgyAWcOJxhp7WjjNKs67GojO0tLSl2KzAJzuZcb_6-R3PDrF-d7ic7iIwSDLISmlG6XxkrOh0Ea2Yah_HLXWgFnjW-UpfVKrWoSvlKee_jyYVcyTHkH-fzgbAIvhEkAW1jzOKupzOQ-jYTa2qCmwoSf7bBvhqE5pdnx-ikdCaw";
+    var vid = "https://drive.google.com/file/d/1xFhWLWen2RhF1dytEl7x6rwnaGZo8Od7/preview";
     document.getElementById("video1_9").src = vid;
     document.getElementById("video1_9").controls = true;
     document.getElementById("video1_9").autoplay = true;
